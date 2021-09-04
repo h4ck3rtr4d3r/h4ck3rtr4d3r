@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-
 - 🔭 I’m currently working on Front-End Skills
 - 🌱 I’m currently learning HTML and CSS
 
@@ -10,7 +8,7 @@
         src="https://github-readme-stats.vercel.app/api?username=h4ck3rtr4d3r&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
       <img height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ck3rtr4d3r&layout=compact&langs_count=16&theme=chartreuse-dark" />
-  </div><br> 
+  </div>
  <div style = "display:flex; justify-content: center;">
       <img align="center" alt="hacker-Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
