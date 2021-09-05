@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Front-End Skills
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 
  <div>
   <a href="#">
