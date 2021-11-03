@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Front-End Skills learning HTML, CSS and JavaScript
+- 🔭 I’m currently working on learning JavaScript
 
  <div>
   <a href="#">
