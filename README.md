@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on learning JavaScript
+- 🔭 I’m currently working on learning C#, Unity and Crypto
 
  <div>
   <a href="#">
